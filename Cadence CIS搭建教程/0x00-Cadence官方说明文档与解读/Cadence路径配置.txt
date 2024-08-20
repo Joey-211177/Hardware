@@ -1,0 +1,14 @@
+
+
+
+[Allegro Footprints]
+Dir0=C:\Cadence\SPB_16.5\share\pcb\pcb_lib\symbols
+Dir1=Z:\allegro
+Dir2=Z:\allegro\tbea_allegro_symbols
+
+[Part Library Directories]
+Dir0=Z:\CaptureLib
+Dir1=Z:\capture
+
+[CIS Browse Directories]
+Dir0=Z:\Help_URL

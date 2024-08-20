@@ -1,0 +1,8 @@
+\t (00:00:00) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:00:00)     Journal start - Sun Jun 23 23:39:15 2024
+\t (00:00:00)         Host=DELL User=DELL Pid=9832 CPUs=24
+\t (00:00:00) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:03) setwindow form.padedit
+\i (00:00:03) pse_exit
+\t (00:00:03)     Journal end - Sun Jun 23 23:39:18 2024
